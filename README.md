@@ -6,7 +6,7 @@
 ---
 
 ## Files
-- `brkb_vol_calc.py`: Main script for calculating and plotting realized volatility.
+- `brkb_realized_vol_calc.py`: Main script for calculating and plotting realized volatility.
 - `brkb.csv`: Dataset containing historical stock prices of $BRKB.
 - `output.png`: Plot
 ---
