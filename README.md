@@ -21,3 +21,7 @@
 ## Timeframe
 - **Input**: Data ranges from **2022-02-28** to **2024-10-31** (from `brkb.csv`).
 - **Output**: Displays 20-day, 30-day, and 180-day realized volatility alongside scaled prices.
+
+## Screenshots
+![output](output.png)
+
